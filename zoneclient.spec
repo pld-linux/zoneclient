@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.python
 Summary:	zoneclient - zoneedit.com service client written in Python
 Summary(pl):	Klient serwisu zoneedit.com napisany w Pythonie
 Name:		zoneclient
