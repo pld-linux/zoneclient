@@ -9,7 +9,6 @@ Source0:	http://ep09.pld-linux.org/~domelu/pld/zoneclient/%{name}-%{version}.tar
 # Source0-md5:	221a2ddbba356b111d1c0319926eca4b
 URL:		http://zoneclient.sourceforge.net/
 BuildRequires:	python-modules
-BuildRequires:	rpm-pythonprov
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
