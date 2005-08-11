@@ -1,12 +1,12 @@
 Summary:	zoneclient - zoneedit.com service client written in Python
 Summary(pl):	Klient serwisu zoneedit.com napisany w Pythonie
 Name:		zoneclient
-Version:	0.44
+Version:	0.47
 Release:	1
 License:	GNU v2
 Group:		Networking
 Source0:	http://ep09.pld-linux.org/~domelu/pld/zoneclient/%{name}-%{version}.tar.gz
-# Source0-md5:	221a2ddbba356b111d1c0319926eca4b
+# Source0-md5:	1bde0472b5198af23c9fb9bac9c01ff9
 URL:		http://zoneclient.sourceforge.net/
 BuildRequires:	python-modules
 BuildArch:	noarch
