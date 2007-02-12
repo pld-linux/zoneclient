@@ -1,5 +1,5 @@
 Summary:	zoneclient - zoneedit.com service client written in Python
-Summary(pl):	Klient serwisu zoneedit.com napisany w Pythonie
+Summary(pl.UTF-8):   Klient serwisu zoneedit.com napisany w Pythonie
 Name:		zoneclient
 Version:	0.47
 Release:	1
@@ -15,7 +15,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 zoneedit.com service client written in Python.
 
-%description -l pl
+%description -l pl.UTF-8
 Klient serwisu zoneedit.com napisany w Pythonie.
 
 %prep
